@@ -33,6 +33,13 @@
       .donation-links a {
         display: inline-block;
         margin-right: 0.75rem;
+        color: #1d4ed8;
+        font-weight: 600;
+        text-decoration: underline;
+      }
+      .donation-links a:hover,
+      .donation-links a:focus-visible {
+        color: #1e3a8a;
       }
     </style>
   </head>
@@ -60,9 +67,10 @@
         <h2>Support Our Mission</h2>
         <p>We accept one-time donations worldwide using the following channels:</p>
         <div class="donation-links">
-          <a href="/donate/paypal">Donate with PayPal</a>
-          <a href="/donate/stripe">Donate with Stripe</a>
+          <a href="https://www.paypal.com/donate/?hosted_button_id=ENDERTA_ORG_BUTTON_ID" target="_blank" rel="noopener noreferrer">Donate with PayPal</a>
+          <a href="https://buy.stripe.com/ENDERTA_ORG_DONATION_LINK" target="_blank" rel="noopener noreferrer">Donate with Stripe</a>
         </div>
+        <p><small>Donation links are configured to use Enderta Organization payment link identifiers.</small></p>
       </section>
 
       <section>
