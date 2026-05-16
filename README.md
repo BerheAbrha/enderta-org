@@ -1,6 +1,6 @@
 # Enderta Organization
 
-The Enderta Organization is a registered 501(c) non-profit in North America dedicated to improving the lives of people in the Enderta region by supporting education and health initiatives.
+The Enderta Organization is a registered 501(c)(3) non-profit in North America dedicated to improving the lives of people in the Enderta region by supporting education and health initiatives.
 
 This repository contains the website content that:
 
